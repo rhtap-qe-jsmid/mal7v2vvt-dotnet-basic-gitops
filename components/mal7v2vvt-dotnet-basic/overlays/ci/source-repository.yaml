@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mal7v2vvt-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/mal7v2vvt-dotnet-basic
